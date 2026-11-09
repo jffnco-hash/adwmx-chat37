@@ -1,0 +1,5 @@
+# Local development only. Do not commit real keys.
+OPENAI_API_KEY=replace-with-your-key
+# Optional fallback key:
+# OPENAI_API_KEY_BACKUP=replace-with-backup-key
+OPENAI_MODEL=gpt-5.5
